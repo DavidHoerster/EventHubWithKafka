@@ -1,2 +1,2 @@
-eh-amqp-consumer:$(Build.BuildId)
-eh-kafka-consumer:$(Build.BuildId)
+agilewaysreg.azurecr.io/eh-amqp-consumer:$(Build.BuildId)
+agilewaysreg.azurecr.io/eh-kafka-consumer:$(Build.BuildId)
