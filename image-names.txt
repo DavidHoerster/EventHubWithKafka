@@ -1,0 +1,2 @@
+eh-amqp-consumer:$(Build.BuildId)
+eh-kafka-consumer:$(Build.BuildId)
